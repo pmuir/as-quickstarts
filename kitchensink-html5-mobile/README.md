@@ -1,6 +1,9 @@
 kitchensink-html5-mobile: Example AeroGear Application Using Multiple HTML5, Mobile & JAX-RS Technologies 
 =========================================================================================================
 Author: Jay Balunas
+Level: Intermediate
+Technologies: HTML5
+Summary: Based on kitchensink, but uses HTML5, making it suitable for mobile and tablet computers
 
 What is it?
 -----------
@@ -78,7 +81,7 @@ To undeploy run this command:
     mvn jboss-as:undeploy
 
 You can also start the JBoss container and deploy the project using JBoss Tools. See the
-<a href="https://docs.jboss.org/author/display/AS71/Getting+Started+Developing+Applications+Guide" title="Getting Started Developing Applications Guide">Getting Started Developing Applications Guide</a> 
+[Getting Started Developing Applications Guide](http://www.jboss.org/jdf/quickstarts/jboss-as-quickstart/guide/GettingStarted/#_starting_the_jboss_server_from_jbds_or_eclipse_with_jboss_tools) 
 for more information.
 
 ### Deploying to OpenShift
@@ -149,7 +152,7 @@ If you created the project using the Maven archetype wizard in your IDE
 already have an IDE project.
 
 Detailed instructions for using Eclipse / JBoss Tools with are provided in the 
-<a href="https://docs.jboss.org/author/display/AS71/Getting+Started+Developing+Applications+Guide" title="Getting Started Developing Applications Guide">Getting Started Developing Applications Guide</a>.
+[Getting Started Developing Applications Guide](http://www.jboss.org/jdf/quickstarts/jboss-as-quickstart/guide/GettingStarted/#_starting_the_jboss_server_from_jbds_or_eclipse_with_jboss_tools).
 
 If you created the project from the command line using archetype:generate, then
 you need to import the project into your IDE. If you are using NetBeans 6.8 or
