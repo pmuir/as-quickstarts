@@ -33,7 +33,7 @@
         <version.org.hibernate-jpamodelgen>1.1.1.Final</version.org.hibernate-jpamodelgen>
         <version.org.jboss.arquillian>1.0.0.Final</version.org.jboss.arquillian>
         <version.org.jboss.as.arquillian.container>7.1.1.Final</version.org.jboss.as.arquillian.container>
-        <version.junit>4.10</version.junit>
+        <version.junit>4.13.1</version.junit>
     </properties>
 
     <licenses>
