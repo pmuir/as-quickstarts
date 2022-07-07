@@ -29,7 +29,7 @@
         <wro4j.version>1.4.4</wro4j.version>
         
         <!-- Versions not covered in jboss-javaee-web-6.0 BOM  -->
-        <version.org.hibernate.validator>4.2.0.Final</version.org.hibernate.validator>
+        <version.org.hibernate.validator>6.0.23.Final</version.org.hibernate.validator>
         <version.org.hibernate-jpamodelgen>1.1.1.Final</version.org.hibernate-jpamodelgen>
         <version.org.jboss.arquillian>1.0.0.Final</version.org.jboss.arquillian>
         <version.org.jboss.as.arquillian.container>7.1.1.Final</version.org.jboss.as.arquillian.container>
